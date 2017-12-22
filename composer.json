@@ -9,7 +9,7 @@
     ],
     "keywords" : ["swoole", "proxy", "http", "https", "socks5", "mitm"],
     "require": {
-        "ext-swoole": "1.8.*",
+        "ext-swoole": "^2.0.10",
         "league/climate": "^3.2"
     },
     "autoload": {
